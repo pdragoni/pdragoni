@@ -5,7 +5,7 @@
 
 Desenvolvo projetos full-stack utilizando HTML, CSS, JavaScript, React e Node. 
 
-<p align='left'>Você entra meu currículo <a href='https://docs.google.com/document/d/1GT0wRsbrJ4MH3esu0gj6PzmRR0L7HdiH/edit?usp=share_link&ouid=117409437819694204288&rtpof=true&sd=true ' target=_blank><u>aqui</u>.</a></p>
+<p align='left'>Você encontra meu currículo <a href='https://docs.google.com/document/d/1_4wRz5lyPKgPyfnLKlyt_tAIXnjRbo1G8YmVOQTjAzE/edit?usp=sharing' target=_blank><u>aqui</u>.</a></p>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=pdragoni alt=pdragoni /> </p>
